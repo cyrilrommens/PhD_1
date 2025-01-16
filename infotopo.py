@@ -672,7 +672,6 @@ https://stackoverflow.com/questions/101439/the-most-efficient-way-to-implement-a
         plt.ylabel('Hk value (bits)')
         plt.title('Hk landscape')
         fig_entropylandscape.set_size_inches(18, 10)
-        #plt.show()
         plt.show()
 
 
